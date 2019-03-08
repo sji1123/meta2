@@ -9,7 +9,7 @@ public class P_TB {
 	private String SIZE;
 	private String TOPIC_CD;
 	private String TOPIC_NAME;
-	 
+	  
 	public P_TB() {}
 
 	public P_TB(String p_ID, String pROJECT_NAME, String lICENSE_ID, String lICENSE_NAME, String lICENSE_DISPLAY,

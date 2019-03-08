@@ -9,7 +9,7 @@ public class Main {
 
 	private final static Logger LOG = Logger.getGlobal();
 	
-	
+	 
 	public static void main(String[] args) throws Exception {
 		LOG.info("시작");
 		long startTime = System.currentTimeMillis();

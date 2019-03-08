@@ -10,7 +10,7 @@ public class F_TB {
     private String P_ID;
     private String EXCLUSION;
     private String COMMENT;
-    
+     
     public F_TB() {}
 
 	public F_TB(String rOWID, String vOLUME, String fILE_NAME, String rELEASE_NAME, String sIMILAR_RATE, String fILE_PATH,
